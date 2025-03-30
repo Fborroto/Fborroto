@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Francesco</h1>
-<h3 align="center">Aspiring game developer with a solid foundation in C and C++ 🎮, developed during the Common Core at 42 Luiss. I've worked on projects in Unity 🚀 and have some experience with Unreal Engine. Always curious, always learning—excited to create and grow in the world of game dev! 🎨✨</h3>
+<h3 align="center">Aspiring game developer with a solid foundation in C and C++, developed during the Common Core at 42 Luiss. I've worked on personal projects in Unity 🎮 and have some experience with Unreal Engine. Always curious, always learning—excited to create and grow in the world of game dev! 🎨✨</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
